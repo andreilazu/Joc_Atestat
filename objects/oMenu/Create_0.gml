@@ -1,0 +1,1 @@
+selected = 0; // 0 = Start Game, 1 = Quit
